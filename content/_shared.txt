@@ -1,0 +1,6 @@
+name: Trinity University Chemistry Club
+-
+profession: Organization
+-
+email: 
+<skwee@trinity.edu>
